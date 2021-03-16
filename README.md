@@ -1,5 +1,7 @@
 `Китель Борис`
 # IntroductoryTask
+1. [UnpackingString.java](src/UnpackingString.java)
+2. [UnpackingString.class](src/UnpackingString.class)
 
 ## Условие:
 Написать на Java программу распаковывания строки. На вход поступает строка вида число[строка], на выход - строка, содержащая повторяющиеся подстроки.
